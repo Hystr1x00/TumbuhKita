@@ -123,12 +123,8 @@ const artikel = await fetch('/api/artikel').then(res => res.json());
 
 ---
 
-## 📄 Lisensi
-
-MIT
-
----
 
 **Dokumentasi lebih detail:**
 - [src/data/README.md](TumbuhKita/src/data/README.md)
--
+- [src/data/IMPLEMENTATION_GUIDE.md](TumbuhKita/src/data/IMPLEMENTATION_GUIDE.md)
+- [src/components/admin/README_EDIT_FEATURES.md](TumbuhKita/src/components/admin/README_EDIT_FEATURES.md)
