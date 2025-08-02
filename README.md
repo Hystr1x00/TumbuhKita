@@ -8,11 +8,11 @@ TumbuhKita adalah aplikasi web berbasis React + Vite untuk monitoring tumbuh kem
 ---
 
 Team :
-Farhan Rizki Fauzi          (UI/UX Web)
-Evan Rakha Yudistira        (BE)
-Farid Ghani                 (FE)
-Nadhira Salsabila Vanka     (UI/UX Mobile)
-Muhammad Rifqi Setiawan     (UI/UX Web)
+- Farhan Rizki Fauzi          (UI/UX Web)
+- Evan Rakha Yudistira        (BE)
+- Farid Ghani                 (FE)
+- Nadhira Salsabila Vanka     (UI/UX Mobile)
+- Muhammad Rifqi Setiawan     (UI/UX Web)
 
 ---
 
