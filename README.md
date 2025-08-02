@@ -12,7 +12,7 @@ Team :
 - Evan Rakha Yudistira        (BE)
 - Farid Ghani                 (FE)
 - Nadhira Salsabila Vanka     (UI/UX Mobile)
-- Muhammad Rifqi Setiawan     (UI/UX Web)
+- Muhammad Rifqi Setiawan     (Mobile)
 
 ---
 
