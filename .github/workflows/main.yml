@@ -1,8 +1,10 @@
 name: Deploy FE to GitHub Pages
+
 on:
   push:
     branches:
       - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,4 +27,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./TumbuhKita/dist   # ganti ke ./TumbuhKita/build kalau React CRA
+          publish_dir: ./TumbuhKita/dist
